@@ -1,0 +1,2 @@
+URL dataset: https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data/data
+URL deployment: https://huggingface.co/spaces/kurniawanew/HousePricePrediction
